@@ -163,6 +163,8 @@ img{
   .portfolio img{
     width: 100%;
     box-shadow: var(--shadow);
+    object-fit: cover;
+    height: 35vh;
 }
   
 /* FOOTER  */
